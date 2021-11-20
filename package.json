@@ -1,0 +1,21 @@
+{
+  "name": "racecar",
+  "version": "1.0.0",
+  "description": "A race car simulator that uses the keyboard controls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BallAndPaddle",
+    "FirstGame",
+    "Retro",
+    "Tile",
+    "Tiles"
+  ],
+  "author": "MitchyGoodness",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "webrtc-adapter": "^7.6.3"
+  }
+}

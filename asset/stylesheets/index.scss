@@ -1,0 +1,12 @@
+canvas:hover{
+  border-style: solid;
+  border-width: 1px;
+  //width: 100%
+}
+
+canvas:not(:hover){
+  padding: 1px;
+}
+input {
+  width: max-content;
+}
